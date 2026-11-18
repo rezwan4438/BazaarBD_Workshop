@@ -1,0 +1,88 @@
+product_id,product_name,category,brand,unit_price,stock_qty
+P001,Smartphone A,Electronics,Unknown,35080,237
+P002,Smartphone B,Electronics,Rangs,28980,382
+P003,Earbuds A,Electronics,Pran,2230,24
+P004,Earbuds B,Electronics,Walton,4290,38
+P005,Power Bank A,Electronics,Square,1360,113
+P006,Power Bank B,Electronics,Walton,1910,364
+P007,Bluetooth Speaker A,Electronics,Pran,5960,170
+P008,Bluetooth Speaker B,Electronics,Yellow,2590,56
+P009,Smart Watch A,Electronics,Apex,7640,229
+P010,Smart Watch B,Electronics,Generic,5370,158
+P011,USB Cable A,Electronics,Generic,240,305
+P012,USB Cable B,Electronics,Bata,540,66
+P013,Laptop Sleeve A,Electronics,Rangs,1310,277
+P014,Laptop Sleeve B,Electronics,Yellow,1040,315
+P015,Webcam A,Electronics,Aarong,2970,185
+P016,Webcam B,Electronics,Aarong,3970,366
+P017,Panjabi A,Fashion,Samsung,3170,57
+P018,Panjabi B,Fashion,Unknown,1450,0
+P019,Saree A,Fashion,Apex,4280,372
+P020,Saree B,Fashion,Ecstasy,4980,229
+P021,Kurti A,Fashion,Unknown,1320,269
+P022,Kurti B,Fashion,Apex,1200,282
+P023,Jeans A,Fashion,Square,3010,163
+P024,Jeans B,Fashion,Xiaomi,2610,86
+P025,T-Shirt A,Fashion,Bata,770,82
+P026,T-Shirt B,Fashion,Aarong,690,294
+P027,Sneakers A,Fashion,Walton,2910,71
+P028,Sneakers B,Fashion,Unknown,5350,259
+P029,Sandals A,Fashion,Apex,1400,0
+P030,Sandals B,Fashion,Rangs,540,11
+P031,Hijab A,Fashion,Unknown,390,36
+P032,Hijab B,Fashion,Ecstasy,350,144
+P033,Rice Cooker A,Home & Kitchen,Unknown,5060,160
+P034,Rice Cooker B,Home & Kitchen,Xiaomi,3580,109
+P035,Blender A,Home & Kitchen,Bata,2220,387
+P036,Blender B,Home & Kitchen,Bata,3440,0
+P037,Non-stick Pan A,Home & Kitchen,Square,1330,344
+P038,Non-stick Pan B,Home & Kitchen,Xiaomi,1820,40
+P039,Dinner Set A,Home & Kitchen,Apex,5860,367
+P040,Dinner Set B,Home & Kitchen,Xiaomi,2500,0
+P041,Water Bottle A,Home & Kitchen,Samsung,730,369
+P042,Water Bottle B,Home & Kitchen,Aarong,230,184
+P043,Electric Kettle A,Home & Kitchen,Ecstasy,1180,255
+P044,Electric Kettle B,Home & Kitchen,Samsung,2330,392
+P045,Bed Sheet A,Home & Kitchen,Rangs,1680,170
+P046,Bed Sheet B,Home & Kitchen,Ecstasy,2430,0
+P047,Table Lamp A,Home & Kitchen,Rangs,990,75
+P048,Table Lamp B,Home & Kitchen,Generic,1530,134
+P049,Novel A,Books & Stationery,Unknown,620,205
+P050,Novel B,Books & Stationery,Square,500,12
+P051,Notebook A,Books & Stationery,Ecstasy,130,0
+P052,Notebook B,Books & Stationery,Pran,120,388
+P053,Pen Set A,Books & Stationery,Bata,180,61
+P054,Pen Set B,Books & Stationery,Pran,370,265
+P055,Textbook A,Books & Stationery,Rangs,1110,385
+P056,Textbook B,Books & Stationery,Xiaomi,530,226
+P057,Art Kit A,Books & Stationery,Xiaomi,620,364
+P058,Art Kit B,Books & Stationery,Square,490,0
+P059,Planner A,Books & Stationery,Apex,770,153
+P060,Planner B,Books & Stationery,Generic,600,379
+P061,Mustard Oil 5L A,Grocery,Yellow,930,85
+P062,Mustard Oil 5L B,Grocery,Apex,1050,370
+P063,Basmati Rice 5kg A,Grocery,Walton,870,381
+P064,Basmati Rice 5kg B,Grocery,Generic,830,60
+P065,Tea 400g A,Grocery,Bata,380,242
+P066,Tea 400g B,Grocery,Rangs,270,96
+P067,Honey 500g A,Grocery,Yellow,650,205
+P068,Honey 500g B,Grocery,Generic,490,322
+P069,Dates 1kg A,Grocery,Samsung,1130,60
+P070,Dates 1kg B,Grocery,Walton,1140,232
+P071,Spice Box A,Grocery,Pran,360,45
+P072,Spice Box B,Grocery,Aarong,360,386
+P073,Face Wash A,Beauty,Unknown,570,195
+P074,Face Wash B,Beauty,Generic,520,8
+P075,Face Wash C,Beauty,Apex,320,65
+P076,Sunscreen A,Beauty,Rangs,1100,154
+P077,Sunscreen B,Beauty,Walton,680,185
+P078,Sunscreen C,Beauty,Walton,870,215
+P079,Perfume A,Beauty,Xiaomi,740,10
+P080,Perfume B,Beauty,Aarong,4310,278
+P081,Perfume C,Beauty,Aarong,2230,79
+P082,Hair Oil A,Beauty,Ecstasy,250,337
+P083,Hair Oil B,Beauty,Unknown,400,229
+P084,Hair Oil C,Beauty,Rangs,240,101
+P085,Lipstick A,Beauty,Aarong,1000,90
+P086,Lipstick B,Beauty,Rangs,1390,16
+P087,Lipstick C,Beauty,Bata,1070,162

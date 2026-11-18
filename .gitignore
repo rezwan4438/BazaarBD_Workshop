@@ -1,0 +1,9 @@
+# Generated or large files: they can be recreated, so Git does not track them
+.venv/
+__pycache__/
+*.pyc
+*.db
+*.log
+data/
+*.png
+.vscode/

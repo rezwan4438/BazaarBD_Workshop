@@ -104,9 +104,12 @@ print(df)
 books = pd.DataFrame({"book_id": [1, 2, 2, 3, 3, 4],
                       "title": ["Python 101", "Data Basics", "Data Basics", "SQL Handbook", "SQL Handbook (2nd ed.)", "AI Primer"],
                       "copies": [3, 5, 5, 2, 4, 1]})
+print(books)
+
+# %%
 print(books.duplicated().sum())                      # exact repeats of a whole row
 print(books.duplicated(subset="book_id").sum())      # repeats of the key only
-print(books.drop_duplicates(subset="book_id"))       # keeps the first; keep="last" is also possible
+print(books.drop_duplicates(subset="book_id", keep = "last"))       # keeps the first; keep="last" is also possible
 
 # %% 6.2 Cleaning - Text methods on a Series
 dept = pd.Series(["  cse", "EEE ", "Cse", "bba", " BBA ", None])
@@ -126,7 +129,7 @@ print(pd.to_numeric(fines, errors="coerce"))            # unparseable -> NaN
 print(pd.to_numeric(fines.str.replace("BDT", "", regex=False).str.strip(), errors="coerce"))
 
 # %% 6.5 Cleaning - Text to dates: to_datetime and .dt
-due = pd.Series(["03/04/2026", "15/04/2026", "31/02/2026", "soon"])
+due = pd.Series(["03/04/2026", "15/04/1900", "31/02/2026", "soon"])
 print(pd.to_datetime(due, format="%d/%m/%Y", errors="coerce"))     # day first: 3 April
 print(pd.to_datetime(due, errors="coerce"))                         # Pandas guesses: 4 March! Compare
 due = pd.to_datetime(due, format="%d/%m/%Y", errors="coerce")

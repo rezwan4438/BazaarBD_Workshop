@@ -11,7 +11,11 @@ conn = sqlite3.connect(DB)
 for stmt in [s.strip() for s in sql.split(";") if s.strip()]:
     title = next((l for l in stmt.splitlines() if l.startswith("--")), "").strip()
     cur = conn.execute(stmt)
-    rows = cur.fetchall()
-    print(f"\n{title}\n  cols={[d[0] for d in cur.description]}  n_rows={len(rows)}")
-    for r in rows[:limit]:
-        print("  ", r)
+
+    if cur.description is not None:
+        rows = cur.fetchall()
+        print(f"\n{title}\n  cols={[d[0] for d in cur.description]}  n_rows={len(rows)}")
+        for r in rows[:limit]:
+            print("  ", r)
+    else:
+        print(f"\n{title}\n  rows affected={cur.rowcount}")

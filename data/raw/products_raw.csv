@@ -1,0 +1,88 @@
+product_id,product_name,category,brand,unit_price,stock_qty
+P001,Smartphone A,Electronics,,35080,237.0
+P002,Smartphone B,Electronics,Rangs,Tk. 28980,382.0
+P003,Earbuds A,Electronics,Pran,"2,230",24.0
+P004,Earbuds B,electronics,Walton,4290,38.0
+P005,Power Bank A,Electronics,Square,1360,113.0
+P006,Power Bank B,Electronics ,Walton,Tk. 1910,364.0
+P007,Bluetooth Speaker A,Electronics ,Pran,5960,170.0
+P008,Bluetooth Speaker B,Electronics,Yellow,2590,56.0
+P009,Smart Watch A,Electronics,Apex,7640,229.0
+P010,Smart Watch B,Electronics,Generic,5370,158.0
+P011,USB Cable A,Electronics,Generic,240,305.0
+P012,USB Cable B,Electronics,Bata,540,66.0
+P013,Laptop Sleeve A,Electronics,Rangs,1310,277.0
+P014,Laptop Sleeve B,Electronics,Yellow,"1,040",315.0
+P015,Webcam A,Electronics,Aarong,2970,185.0
+P016,Webcam B,Electronics,Aarong,3970,366.0
+P017,Panjabi A,Fashion,Samsung,"3,170",57.0
+P018,Panjabi B,fashion,,1450,
+P019,Saree A,Fashion,Apex,4280,372.0
+P020,Saree B,Fashion,Ecstasy,4980,229.0
+P021,Kurti A,Fashion,,Tk. 1320,269.0
+P022,Kurti B,Fashion,Apex,1200,282.0
+P023,Jeans A,Fashion,Square,"3,010",163.0
+P024,Jeans B,Fashion,Xiaomi,"৳2,610",86.0
+P025,T-Shirt A,Fashion,Bata,770,82.0
+P026,T-Shirt B,Fashion,Aarong,690,294.0
+P027,Sneakers A,Fashion,Walton,2910,71.0
+P028,Sneakers B,Fashion,,5350,259.0
+P029,Sandals A,Fashion ,Apex,Tk. 1400,
+P030,Sandals B,Fashion,Rangs,৳540,11.0
+P031,Hijab A,Fashion,,390,36.0
+P032,Hijab B,Fashion,Ecstasy,350,144.0
+P033,Rice Cooker A,Home & Kitchen,,5060,160.0
+P034,Rice Cooker B,Home & Kitchen,Xiaomi,"৳3,580",109.0
+P035,Blender A,Home & Kitchen,Bata,2220,387.0
+P036,Blender B,Home & Kitchen,Bata,3440,
+P037,Non-stick Pan A,Home & Kitchen,Square,1330,344.0
+P038,Non-stick Pan B,Home & Kitchen,Xiaomi,"৳1,820",40.0
+P039,Dinner Set A,Home & Kitchen,Apex,5860,367.0
+P040,Dinner Set B,Home & Kitchen,Xiaomi,2500,
+P041,Water Bottle A,Home & Kitchen,Samsung,730,369.0
+P042,Water Bottle B,Home & Kitchen,Aarong,230,184.0
+P043,Electric Kettle A,Home & Kitchen,Ecstasy,"1,180",255.0
+P044,Electric Kettle B,Home & Kitchen,Samsung,2330,392.0
+P045,Bed Sheet A,Home & Kitchen,Rangs,1680,170.0
+P046,Bed Sheet B,Home & Kitchen,Ecstasy,2430,
+P047,Table Lamp A,Home & Kitchen,Rangs,990,75.0
+P048,Table Lamp B,Home & Kitchen,Generic,1530,134.0
+P049,Novel A,Books & Stationery,,620,205.0
+P050,Novel B,Books & Stationery,Square,500,12.0
+P051,Notebook A,Books & Stationery,Ecstasy,130,
+P052,Notebook B,Books & Stationery,Pran,120,388.0
+P053,Pen Set A,Books & Stationery,Bata,Tk. 180,61.0
+P054,Pen Set B,Books & Stationery,Pran,370,265.0
+P055,Textbook A,Books & Stationery,Rangs,1110,385.0
+P056,Textbook B,Books & Stationery,Xiaomi,530,226.0
+P057,Art Kit A,Books & Stationery,Xiaomi,Tk. 620,364.0
+P058,Art Kit B,Books & Stationery,Square,490,
+P059,Planner A,Books & Stationery,Apex,Tk. 770,153.0
+P060,Planner B,Books & Stationery,Generic,600,379.0
+P061,Mustard Oil 5L A,Grocery,Yellow,930,85.0
+P062,Mustard Oil 5L B,Grocery,Apex,1050,370.0
+P063,Basmati Rice 5kg A,Grocery,Walton,870,381.0
+P064,Basmati Rice 5kg B,Grocery,Generic,830,60.0
+P065,Tea 400g A,Grocery,Bata,380,242.0
+P066,Tea 400g B,Grocery,Rangs,270,96.0
+P067,Honey 500g A,Grocery,Yellow,Tk. 650,205.0
+P068,Honey 500g B,Grocery,Generic,490,322.0
+P069,Dates 1kg A,Grocery,Samsung,1130,60.0
+P070,Dates 1kg B,Grocery,Walton,1140,232.0
+P071,Spice Box A,Grocery,Pran,360,45.0
+P072,Spice Box B,Grocery,Aarong,৳360,386.0
+P073,Face Wash A,Beauty,,570,195.0
+P074,Face Wash B,Beauty,Generic,520,8.0
+P075,Face Wash C,Beauty,Apex,320,65.0
+P076,Sunscreen A,Beauty,Rangs,1100,154.0
+P077,Sunscreen B,Beauty,Walton,680,185.0
+P078,Sunscreen C,Beauty,Walton,৳870,215.0
+P079,Perfume A,Beauty,Xiaomi,740,10.0
+P080,Perfume B,Beauty,Aarong,4310,278.0
+P081,Perfume C,Beauty,Aarong,2230,79.0
+P082,Hair Oil A,Beauty,Ecstasy,৳250,337.0
+P083,Hair Oil B,Beauty,,400,229.0
+P084,Hair Oil C,Beauty,Rangs,240,101.0
+P085,Lipstick A,Beauty ,Aarong,1000,90.0
+P086,Lipstick B,Beauty,Rangs,1390,16.0
+P087,Lipstick C,Beauty,Bata,1070,162.0
